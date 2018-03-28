@@ -1,0 +1,17 @@
+axa\tests\AutoversicherungsTest.class
+axa\utils\TestBase.class
+axa\factory\DriverType.class
+axa\factory\DriverManagerFactory$1.class
+axa\pages\PraemiePage.class
+axa\utils\Helpers.class
+axa\utils\Firsttest.class
+axa\factory\FactoryPatternTest.class
+axa\utils\ExcelAdapter.class
+axa\utils\TempTest.class
+axa\pages\SchadenSection.class
+axa\factory\DriverManager.class
+axa\pages\FahrzeugsuchePage.class
+axa\pages\AngabenPage.class
+axa\factory\DriverManagerFactory.class
+axa\utils\StatusListener.class
+axa\factory\ChromeDriverManager.class
